@@ -6,7 +6,8 @@
 https://pastebin.com/api#4  
 you'll be able to see what options you have available.  
 
-## requirement  
+## Prerequisites  
 curl executable file (https://curl.haxx.se/)  
 api_dev_key (https://pastebin.com/api)
+
 
